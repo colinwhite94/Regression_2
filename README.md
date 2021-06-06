@@ -1,0 +1,2 @@
+# Regression_2
+We need to know what a safe speed limit will be for certain rural road. To figure out what a safe speed limit will be we need to know if speed is an accurate predictor of stopping distance. If the data that compares stopping distance to speed passes all the assumptions for a SLR model, we can make a SLR model that helps us choose a good speed limit based on required stopping distance.
